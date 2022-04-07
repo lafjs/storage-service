@@ -1,5 +1,6 @@
 # laf-storage-service
 
+> Deprecated: 本仓库是 laf.js 早期使用的云存储服务，单独迁移至此处以服务旧有的 laf.js 应用，新的云存储将使用 minio 代替，此服务除必要的 bug 修复外将不再更新。
 ## Notice
 
 - dirname :
